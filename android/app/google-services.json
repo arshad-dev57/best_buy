@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960241025937",
+    "project_id": "e-com-app-3c732",
+    "storage_bucket": "e-com-app-3c732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960241025937:android:d7be4fc5be2c39b89b1030",
+        "android_client_info": {
+          "package_name": "com.example.best_buy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeL079qN-1qOwCrVZVa4WIkp-91kQ5QQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
